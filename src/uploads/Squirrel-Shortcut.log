@@ -1,0 +1,62 @@
+﻿[27/04/22 21:45:02] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[27/04/22 21:45:02] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\User\AppData\Local\Postman\
+[27/04/22 21:45:02] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[27/04/22 21:45:02] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.16.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/04/22 21:45:02] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\OneDrive\Desktop\Postman.lnk
+[27/04/22 21:45:02] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\OneDrive\Desktop\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.16.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/04/22 21:45:02] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/04/22 21:45:02] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/04/22 21:45:02] info: ApplyReleasesImpl: Examining Pin: Yandex (2).lnk
+[27/04/22 21:45:02] info: Program: Finished Squirrel Updater
+[01/06/22 18:49:15] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[01/06/22 18:49:15] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\User\AppData\Local\Postman\
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.19.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\OneDrive\Desktop\Postman.lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\OneDrive\Desktop\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.19.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Examining Pin: Yandex (2).lnk
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[01/06/22 18:49:16] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[01/06/22 18:49:16] info: ApplyReleasesImpl: Finished shortcut successfully
+[01/06/22 18:49:16] info: Program: Finished Squirrel Updater
+[27/06/22 11:40:19] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[27/06/22 11:40:19] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\User\AppData\Local\Postman\
+[27/06/22 11:40:19] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[27/06/22 11:40:19] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.22.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/06/22 11:40:19] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\OneDrive\Desktop\Postman.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\OneDrive\Desktop\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.22.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: Alice.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Examining Pin: Yandex (2).lnk
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/06/22 11:40:20] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/06/22 11:40:20] info: ApplyReleasesImpl: Finished shortcut successfully
+[27/06/22 11:40:20] info: Program: Finished Squirrel Updater
+[27/07/22 20:44:50] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[27/07/22 20:44:50] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\User\AppData\Local\Postman\
+[27/07/22 20:44:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[27/07/22 20:44:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.25.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/07/22 20:44:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\User\OneDrive\Desktop\Postman.lnk
+[27/07/22 20:44:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\User\OneDrive\Desktop\Postman.lnk (target C:\Users\User\AppData\Local\Postman\Postman.exe, workingDir C:\Users\User\AppData\Local\Postman\app-9.25.2, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/07/22 20:44:50] info: ApplyReleasesImpl: Examining Pin: Alice.lnk
+[27/07/22 20:44:50] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Examining Pin: Postman.lnk
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Examining Pin: Yandex (2).lnk
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Postman.lnk'
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/07/22 20:44:51] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Old iconPath is: 'C:\Users\User\AppData\Local\Postman\Postman.exe'
+[27/07/22 20:44:51] info: ApplyReleasesImpl: Finished shortcut successfully
+[27/07/22 20:44:51] info: Program: Finished Squirrel Updater
